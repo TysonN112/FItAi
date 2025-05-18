@@ -1,0 +1,8 @@
+{
+  "short_name": "FitAI",
+  "name": "FitAI - Your AI-powered fitness companion",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
